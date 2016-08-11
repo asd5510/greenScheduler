@@ -5,4 +5,4 @@
 3 SchedulerBasic调度方式一旦开机后就不关机(主要通过calSlotPowerComsumeWithoutSleep())
 
 
-[image](https://github.comasd5510/greenScheduler/edit/master/data/f.png)
+![image](https://github.comasd5510/greenScheduler/master/data/f.png)
