@@ -1,5 +1,8 @@
-ĞèÒªËµÃ÷µÄÊÇ£¬Õû¸öÖ´ĞĞ¹ı³Ì²»ÄÜÂÒ£ºÏÈbindTasktoVm()È»ºócalSlotPowerConsume()ÔÙupdateHostList()
+éœ€è¦è¯´æ˜çš„æ˜¯ï¼Œæ•´ä¸ªæ‰§è¡Œè¿‡ç¨‹ä¸èƒ½ä¹±ï¼šå…ˆbindTasktoVm()ç„¶åcalSlotPowerConsume()å†updateHostList()
 
-1 ¸Ã°æ±¾ĞŞÕıÁËshutdowntimesÖ®Ç°µÄ¼ÆËã´íÎó
-2 Ôö¼ÓÁËÃ¿¸öÊ±¼ä²Û¿ª»úÊıÄ¿µÄÏÔÊ¾£¨ÔÚcalSlotPowerComsume()»òcalSlotPowerConsumeWithoutSleep()ÖĞ¼ÆËã£©
-3 SchedulerBasicµ÷¶È·½Ê½Ò»µ©¿ª»úºó¾Í²»¹Ø»ú(Ö÷ÒªÍ¨¹ıcalSlotPowerComsumeWithoutSleep())
+1 è¯¥ç‰ˆæœ¬ä¿®æ­£äº†shutdowntimesä¹‹å‰çš„è®¡ç®—é”™è¯¯
+2 å¢åŠ äº†æ¯ä¸ªæ—¶é—´æ§½å¼€æœºæ•°ç›®çš„æ˜¾ç¤ºï¼ˆåœ¨calSlotPowerComsume()æˆ–calSlotPowerConsumeWithoutSleep()ä¸­è®¡ç®—ï¼‰
+3 SchedulerBasicè°ƒåº¦æ–¹å¼ä¸€æ—¦å¼€æœºåå°±ä¸å…³æœº(ä¸»è¦é€šè¿‡calSlotPowerComsumeWithoutSleep())
+
+
+[image](https://github.comasd5510/greenScheduler/edit/master/data/f.png)
