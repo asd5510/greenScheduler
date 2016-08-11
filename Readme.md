@@ -6,3 +6,9 @@
 
 
 ![image](https://github.com/asd5510/greenScheduler/blob/master/data/f.png)
+
+仿真框架图：
+![image](https://github.com/asd5510/greenScheduler/blob/master/data/green框图.jpg)
+
+运行结果示例：
+![image](https://github.com/asd5510/greenScheduler/blob/master/data/3次方.jpg)
